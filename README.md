@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact 
 
-Kuek Hao Yang - [@KuekHaoYang](https://github.com/KuekHaoYang)
+Mucyo christian - [@](https://github.com/KuekHaoYang)
 
 Project Link: [https://github.com/KuekHaoYang/KChat](https://github.com/KuekHaoYang/KChat)
 
