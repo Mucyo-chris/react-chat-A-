@@ -112,7 +112,7 @@ Please refer to the project's issue tracker for ways to contribute. If you have 
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+## Contact 
 
 Kuek Hao Yang - [@KuekHaoYang](https://github.com/KuekHaoYang)
 
