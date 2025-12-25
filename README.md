@@ -116,6 +116,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mucyo christian - [@mucyochristian](https://github.com/Mucyo-chris)
 
-Project Link: [https://github.com/KuekHaoYang/KChat](https://github.com/KuekHaoYang/KChat)
+Project Link: [https://github.com/Mucyo-chris/KChat](https://github.com/KuekHaoYang/KChat)
 
 For issues, questions, or feature requests, please use the [GitHub Issues](https://github.com/KuekHaoYang/KChat/issues) page.
