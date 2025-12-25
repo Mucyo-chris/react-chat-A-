@@ -118,4 +118,4 @@ Mucyo christian - [@mucyochristian](https://github.com/Mucyo-chris)
 
 Project Link: [https://github.com/Mucyo-chris/KChat](https://github.com/Mucyo-chris/KChat)
 
-For issues, questions, or feature requests, please use the [GitHub Issues](https://github.com/KuekHaoYang/KChat/issues) page.
+For issues, questions, or feature requests, please use the [GitHub Issues](https://github.com//KChat/issues) page.
